@@ -1,4 +1,4 @@
-# Complete Machine Learning and Data Science: Zero to Mastery (2020)
+# Complete ML by ZTM (2023)
 
 ## **Data Science Environment Setup**
 
